@@ -1,0 +1,1 @@
+Nie pojawia się wiadomość z note print string, ponieważ jest on tylko przeznaczony dla developera.
